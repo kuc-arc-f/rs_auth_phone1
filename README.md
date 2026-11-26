@@ -1,4 +1,4 @@
-# rs_auth_phone1_pri
+# rs_auth_phone1
 
  Version: 0.9.1
 
